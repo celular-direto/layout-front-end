@@ -1,4 +1,4 @@
-# Seja um desenvolvedor Front-end da Celular Direto!
+# Seja um Front-end da Celular Direto!
 
 ##Requisito:
 * Domínio de HTML e HTML5
