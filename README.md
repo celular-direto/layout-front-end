@@ -3,6 +3,7 @@
 ##Requisito:
 * Domínio de HTML e HTML5
 * CSS e pré-processadores de CSS
+* Bootstrap
 * JavaScript e jQuery
 
 ##Diferenciais:
@@ -28,7 +29,6 @@
 ##Instruções para o teste:
 ###Obrigatório:
 * HTML5 e CSS3
-* Bootstrap é proibido
 * Funcionalidades:
   1. Abrir e fechar o modal;
   2. Todos os campos serão obrigatórios;
