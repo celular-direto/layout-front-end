@@ -10,6 +10,7 @@
 * Flexbox
 * Metodologia BEM
 * jQuery Validation
+* Angular 1 (Não cobrado na prova)
 
 ##Benefícios:
 * Plano de saúde
