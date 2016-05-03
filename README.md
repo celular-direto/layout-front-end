@@ -22,7 +22,7 @@
 ##Como concorrer a vaga?
 1. Forka este projeto;
 2. No seu fork, implemente todo o layout seguindo as instruções abaixo;
-3. Faça um pull request (ou envie para marcelus.soares@celulardireto.com.br com o assunto de **_Quero ser um Front-end da Celular Direto_**).
+3. Faça um pull request (ou envie para alice.nunes@celulardireto.com.br com o assunto de **_Quero ser um Front-end da Celular Direto_**).
 
 ***
 
